@@ -1,11 +1,11 @@
 title: TEE-assisted Confidential Smart Contracts
 description: This page lists blockchain projects that use the trusted execution environment (TEE) to achieve confidential smart contracts.
 
-domain: "tcsc.github.io"
-baseurl: "/tcsc"
+domain: "tcsc-sys.github.io"
+baseurl: ""
 
-github_username: rjgeek
-github_repo: tcsc
+github_username: tcsc-sys
+github_repo: tcsc-sys.github.io
 
 markdown: kramdown
 
