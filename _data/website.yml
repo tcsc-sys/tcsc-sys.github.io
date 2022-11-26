@@ -1,0 +1,848 @@
+---
+ # Security and Privacy
+ 
+- name: Microsoft Aura Confidential Ledger
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: Protect your data at rest, in transit, and in use with hardware-backed secure enclaves
+  link: https://azure.microsoft.com/en-gb/products/azure-confidential-ledger/#overview
+  paper: (Tech Report) CCF:&nbsp;A framework for building confidential verifiable replicated services
+  paperlink: https://ashamis.github.io/files/CCF-A-Framework-for-Building-Confidential-Verifiable-Replicated-Services.pdf
+  news: Announcing the Confidential Consortium Blockchain Framework for enterprise blockchain networks
+  newslink: https://azure.microsoft.com/en-us/blog/announcing-microsoft-s-coco-framework-for-enterprise-blockchain-networks/
+  tags: [SEC]
+  
+- name: IBM Fabric Private Chaincode 
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: Hyperledger Fabric Private Chaincode (FPC) enables the execution of chaincodes using Intel SGX for Hyperledger Fabric
+  link: https://www.antchain.net/home
+  paper: (Tech Report 20) Hyperledger Fabric Private Chaincode
+  paperlink: https://github.com/hyperledger/fabric-private-chaincode
+  news: Confidentiality and integrity for blockchain smart contracts
+  newslink: https://www.ibm.com/blogs/blockchain/2020/02/confidentiality-and-integrity-for-blockchain-smart-contracts/
+  tags: [SEC]
+  
+- name: Ant Group AntChain
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: Develop the world leading technology in the fields of blockchain and privacy computing to both private enterprises and the public
+  link: https://www.antchain.net/home
+  paper: (ACM SIGMOD 20) Confidentiality Support over Financial Grade Consortium Blockchain
+  paperlink: https://dl.acm.org/doi/abs/10.1145/3318464.3386127
+  news: AntChain blockchain supports confidential computing using Ant's own chip
+  newslink: https://www.ledgerinsights.com/antchain-blockchain-supports-confidential-computing-using-ants-own-chip/
+  tags: [SEC]
+
+- name: Alibaba Inclavare Containers
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: An open source enclave container runtime and security architecture for confidential computing scenarios
+  link: https://inclavare-containers.io/en/
+  paper: (Tech Documentation) TEE-based confidential computing
+  paperlink: https://www.alibabacloud.com/help/en/container-service-for-kubernetes/latest/tee-based-confidential-computing-tee-based-confidential-computing
+  news: When Kubernetes Encounters Confidential Computing, How Does Alibaba Protect the Data in the Container?
+  newslink: https://alibaba-cloud.medium.com/when-kubernetes-encounters-confidential-computing-how-does-alibaba-protect-the-data-in-the-a2d19e8619dd
+  tags: [SEC]
+
+- name: Oasis Labs
+  year: 2023
+  type: 🏆&nbsp🌉
+  description: Build your app on the world leading privacy-first blockchain
+  link: https://www.oasislabs.com/
+  paper: (EuroS&P 19) Ekiden:&nbsp;A platform for confidentiality-preserving, trustworthy, and performant smart contracts
+  paperlink: https://ieeexplore.ieee.org/document/8806762
+  news: Confidential smart contracts:&nbsp;How it works and why you should use oasis network
+  newslink: https://medium.com/@hiboat/confidential-smart-contracts-how-it-works-and-why-you-should-use-oasis-network-56d5073cedf9?source=post_internal_links---------3----------------------------
+  tags: [SEC]
+  
+- name: Visa's LucidiTEE
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: A TEE-blockchain system for policy-compliant multiparty computation with fairness
+  link: https://ieeexplore.ieee.org/document/8806762
+  paper: (Eprint 19) LucidiTEE:&nbsp;A TEE-Blockchain System for Policy-Compliant Multiparty Computation with Fairness
+  paperlink: https://ieeexplore.ieee.org/document/8806762
+  news: Visa builds blockchain-based trusted execution environment
+  newslink: https://www.ledgerinsights.com/visa-blockchain-trusted-execution-environment/
+  tags: [SEC]
+
+- name: Ontology Infrastructure
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: Bring trust, privacy, and security to Web3 through decentralized identity and data solutions
+  link: https://scrt.network
+  paper: (White Paper) Ontology Infrastructure
+  paperlink: https://ont.io/wp/Ontology-Infrastructure-White-Paper-EN-2.0.0.pdf
+  news: ONT x TEEX:&nbsp;The First Mainnet that Supports Privacy Smart Contract is Ready
+  newslink: https://medium.com/teexofficial/ont-x-teex-the-first-mainnet-that-supports-privacy-smart-contract-is-ready-2ea26636420b
+  tags: [SEC] 
+
+- name: Phala Network 
+  year: 2023
+  type: 🏆&nbsp🌉
+  description: A privacy-preserving cloud computing service in the Web 3.0 ecosystem
+  link: https://www.phala.network
+  paper: (White Paper) A confidential smart contract network based on polkadot
+  paperlink: https://files.phala.network/phala-paper.pdf
+  news: Phala Network:&nbsp;confidential smart contracts for Polkadot
+  newslink: https://polkadotters.medium.com/phala-network-confidential-smart-contracts-for-polkadot-a904a04f32f6#:~:text=Phala%20Network%20is%20a%20PoS,contracts%20for%20all%20other%20parachains.
+  tags: [SEC]
+
+- name: Secret Network
+  year: 2023
+  type: 🏆&nbsp🌉
+  description: Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how
+  link: https://scrt.network
+  paper: (White Paper) Secret Network Overview
+  paperlink: https://docs.scrt.network/secret-network-documentation/secret-network-overview
+  news: What is secret network?
+  newslink: https://www.kraken.com/en-us/learn/what-is-secret-network-scrt
+  tags: [SEC] 
+  
+- name: China's self-developed Chang'An Chain
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: Chang'An Chain, known as Chain Maker, is a hardware and blockchain project with major government support
+  link: https://chainmaker.org.cn/
+  paper: (White Paper) Chang'An Chain (Chinese version)
+  paperlink: https://docs.chainmaker.org.cn/v2.2.0/html/tech/%E9%9A%90%E7%A7%81%E8%AE%A1%E7%AE%97%E6%96%B9%E6%A1%88.html
+  news: Chinese Chang'An chain enterprise blockchain joins digital yuan project
+  newslink: https://www.unlock-bc.com/news/2021-03-07/chinese-changan-chain-enterprise-blockchain-joins-digital-yuan-project/
+  tags: [SEC] 
+  
+- name: Super Computing Systems
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: Combined blockchain technology with trusted execution environments
+  link: https://www.cypherhunter.com/en/p/supercomputing-systems/
+  paper: ""
+  paperlink: "" 
+  news: Blockchain and trusted execution create trust
+  newslink: https://www.scs.ch/en/projekt/blockchain-und-trusted-execution-schaffen-vertrauen/
+  tags: [SEC]
+  
+- name: Orange Protocol
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: Orange is a protocol for building trustless, decentralized, and portable reputation for Web3
+  link: https://www.orangeprotocol.io/
+  paper: (Tech Documentation) Secure Computing Paradigm
+  paperlink: https://docs.orangeprotocol.io/future/secure-computing
+  news: Blockchain and trusted execution create trust
+  newslink: https://www.scs.ch/en/projekt/blockchain-und-trusted-execution-schaffen-vertrauen/
+  tags: [SEC]
+  
+- name: TeeWare
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: Using TEE to deliver unparalleled security, scalability, availability, and ease of use to address security and operational requirements for Blockchain
+  link: https://teeware.io/
+  paper: Product Overview
+  paperlink: https://teeware.io/product/ 
+  news: ""
+  newslink: ""
+  tags: [SEC]
+  
+- name: Conclave
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: Conclave makes it easy to encrypt your data throughout every stage in the data lifecycle at rest, in transit, and during processing
+  link: https://www.conclave.net
+  paper: ""
+  paperlink: "" 
+  news: Confidential Smart Contracts using Conclave
+  newslink: https://www.r3.com/cordacon/confidential-smart-contracts-using-conclave/
+  tags: [SEC]
+  
+- name: AlphaPoint TrustedVM
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: A trusted virtual machine enabled by Intel? Software Guard Extensions (Intel SGX) technology which allows smart contracts and blockchain services to run securely
+  link: https://alphapoint.com
+  paper: ""
+  paperlink: "" 
+  news: AlphaPoint Utilizes Intel Security Technology to Deliver Enterprise-Ready Blockchain Platform
+  newslink: https://alphapoint.com/press/alphapoint-utilizes-intel-security-technology-to-deliver-enterprise-ready-blockchain-platform/
+  tags: [SEC]
+  
+  
+- name: Aggregion
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: Any scenarios for data collaboration in a secure and trusted environment
+  link: https://www.aggregion.com/
+  paper: (Tech documentation) Confidential Data Processing Technology
+  paperlink: https://www.aggregion.com/technical-architecture
+  news: 
+  newslink: 
+  tags: [SEC]
+   
+- name: Hyperledger Avalon
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: Trusted computing includes a variety of techniques to ensure that computation was done correctly and secretly
+  link: https://www.hyperledger.org/blog/2019/10/03/introducing-hyperledger-avalon
+  paper: ""
+  paperlink: ""
+  news: Hyperledger Avalon:&nbsp;Building the Next Wave of Confidential Applications
+  newslink: https://medium.com/iex-ec/hyperledger-avalon-building-the-next-wave-of-confidential-applications-54ba49dcd7e7
+  tags: [SEC]
+  
+- name: ConsenSys Private Blockchains
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: Using TEE to help blockchains scale, harden security, improve data privacy
+  link: https://media.consensys.net/the-promise-of-trusted-compute-resources-a9ea72309412
+  paper: (No paper, no prototype)
+  paperlink: ""
+  news: Busting the Myth of Private Blockchains
+  newslink: https://consensys.net/enterprise-ethereum/best-blockchain-for-business/busting-the-myth-of-private-blockchains/
+  tags: [SEC]
+  
+- name: iExec
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: By combining blockchain and confidential computing, we are helping to build the next generation of the Internet
+  link: https://iex.ec
+  paper: iExec Technical Documentation
+  paperlink: https://docs.iex.ec/
+  news: iExec:&nbsp;Allowing Scalable, Efficient and Virtualized Off-chain Execution for Arbitrary Applications
+  newslink: https://archive.devcon.org/archive/watch/3/iexec-allowing-scalable-efficient-and-virtualized-off-chain-execution-for-arbitrary-applications/?tab=YouTube
+  tags: [SEC]
+  
+- name: Integritee Network
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: Harness the speed and confidentiality of trusted execution environments, combined with the trust of a decentralized network, with Integritee.
+  link: https://integritee.network/
+  paper: Integritee Lightpaper
+  paperlink: https://uploads-ssl.webflow.com/60c21bdfde439ba700ea5c56/612892db018a36f054100b4d_Integritee%20AG%20Lightpaper.pdf
+  news: What is Integritee? A full technical guide.
+  newslink: https://medium.com/polkadot-ecosystem-promoteam/what-is-integritee-a-full-technical-guide-75de9c3cc7b9
+  tags: [SEC]
+  
+- name: Enigma
+  year: 2023
+  type: 🏆&nbsp🌉
+  description: Enigma enables decentralized applications to compute over encrypted data
+  link: https://www.enigma.co/
+  paper: (Report) Providing Scalable Privacy-Preservation to Smart Contacts
+  paperlink: https://epicenter.tv/episodes/246/
+  news: Intel and Enigma work on privacy-enhancing smart contracts
+  newslink: https://www.enterprisetimes.co.uk/2018/06/21/intel-and-enigma-work-on-privacy-enhancing-smart-contracts/
+  tags: [SEC]
+  
+- name: Occlum
+  year: 2023
+  type: 🍀&nbsp🌉
+  description: A library OS empowering everyone to run every application in secure enclaves
+  link: https://occlum.io/
+  paper: ""
+  paperlink: ""
+  news: Confidential Computing for Everyone:&nbsp;Getting Started with Occlum and Its Related Technologies
+  newslink: https://www.alibabacloud.com/blog/confidential-computing-for-everyone-getting-started-with-occlum-and-its-related-technologies_598671?utm_content=m_1000334423
+  tags: [SEC]
+  
+- name: CLOAK
+  year: 2023
+  type: 🏆&nbsp🎓
+  description: Towards practical development and deployment of confidential smart contracts
+  link: https://ieeexplore.ieee.org/document/9546461
+  paper: (ICDCS 21) Demo:&nbsp;A Framework For Development of Confidential Blockchain Smart Contracts
+  paperlink: https://ieeexplore.ieee.org/document/9546461
+  news: ""
+  newslink: ""
+  tags: [SEC]
+  
+- name: Bowman's Work
+  year: 2023
+  type: 🏆&nbsp🎓
+  description: Private Data Objects:&nbsp;an Overview
+  link: https://arxiv.org/pdf/1807.05686.pdf
+  paper: (Eprint 18) Private Data Objects:&nbsp;an Overview
+  paperlink: https://arxiv.org/pdf/1807.05686.pdf
+  news: https://www.youtube.com/watch?v=Cx-mNHNINOg
+  newslink: Hyperledger Labs:&nbsp;Private Data Objects (PDO)
+  tags: [SEC] 
+
+- name: SEFrame
+  year: 2023
+  type: 🏆&nbsp🎓
+  description: An SGX-enhanced smart contract execution framework for permissioned blockchain
+  link: https://ieeexplore.ieee.org/document/9835475/
+  paper: (ICDE 22) SEFram:&nbsp;An SGX-enhanced smart contract execution framework for permissioned blockchain
+  paperlink: https://ieeexplore.ieee.org/document/9835475/
+  news: ""
+  newslink: ""
+  tags: [SEC]
+  
+- name: Fang's Work
+  year: 2023
+  type: 🏆&nbsp🎓
+  description: An SGX-based execution framework for smart contracts upon permissioned blockchain
+  link: https://link.springer.com/article/10.1007/s10619-022-07409-7
+  paper: (DPD 22) An SGX-based execution framework for smart contracts upon permissioned blockchain
+  paperlink: https://link.springer.com/article/10.1007/s10619-022-07409-7
+  news: ""
+  newslink: ""
+  tags: [SEC]
+  
+- name: TZ4Fabric
+  year: 2023
+  type: 🏆&nbsp🎓
+  description: Executing smart contracts with ARM trustZone
+  link: https://arxiv.org/pdf/2008.11601.pdf
+  paper: (Eprint 18) TZ4Fabric:&nbsp;Executing Smart Contracts with ARM TrustZone
+  paperlink: https://arxiv.org/pdf/2008.11601.pdf
+  news: TZ4Fabric:&nbsp;Executing Smart Contracts with ARM TrustZone
+  newslink: https://research.ibm.com/publications/tz4fabric-executing-smart-contracts-with-arm-trustzone-experience-report
+  tags: [SEC]
+  
+- name: ShadowEth
+  year: 2023
+  type: 🏆&nbsp🎓
+  description: Private smart contract on public blockchain
+  link: https://ipads.se.sjtu.edu.cn/_media/publications/shadoweth-jcst18.pdf
+  paper: (JCST 18) ShadowEth:&nbsp;Private Smart Contract on Public Blockchain
+  paperlink: https://ipads.se.sjtu.edu.cn/_media/publications/shadoweth-jcst18.pdf
+  news: ShadowEth:Private Smart Contract on Public Blockchain
+  newslink: https://blog.cryptape.com/shadoweth-private-smart-contract-on-public-blockchain
+  tags: [SEC]
+
+- name: FASTKITTEN
+  year: 2023
+  type: 🏆&nbsp🎓
+  description: Practical smart contracts on bitcoin
+  link: https://www.usenix.org/system/files/sec19fall_das_prepub.pdf
+  paper: (USENIX Security 19) FASTKITTEN:&nbsp;Practical Smart Contracts on Bitcoin
+  paperlink: https://www.usenix.org/system/files/sec19fall_das_prepub.pdf
+  news: FASTKITTEN:&nbsp;Practical Smart Contracts on Bitcoin
+  newslink: https://www.youtube.com/watch?v=kVADc9Zbcto
+  tags: [SEC]
+    
+- name: Super Protocol
+  year: 2022
+  type: 🍀&nbsp🌉
+  description: Web3 confidential super cloud
+  link: https://superprotocol.com/
+  paper: (Whitepaper) Super Protocol 
+  paperlink: https://docs.superprotocol.com/whitepaper/
+  news: The future of Confidential Computing
+  newslink: https://superprotocol.medium.com/the-future-of-confidential-computing-b324215d9204
+  tags: [SEC]
+  
+- name: Muller's Work
+  year: 2019
+  type: 🏆&nbsp🎓
+  description: Execution of smart contracts with ARM TrustZone
+  link: https://crypto.unibe.ch/archive/theses/2019.msc.christina.mueller.pdf
+  paper: (MasterThesis 19) Execution of Smart Contracts with ARM TrustZone
+  paperlink: https://crypto.unibe.ch/archive/theses/2019.msc.christina.mueller.pdf
+  news: ""
+  newslink: ""
+  tags: [SEC]
+
+# Specific Solution
+
+- name: Li's Work
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: A distributed privacy preservation approach for big data in public health emergencies using smart contract and SGX
+  link: https://www.techscience.com/cmc/v65n1/39591
+  paper: (CMC 22) A Distributed Privacy Preservation Approach for Big Data in Public Health Emergencies Using Smart Contract and SGX
+  paperlink: https://www.techscience.com/cmc/v65n1/39591
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: SPOCS
+  year: 2022
+  type: 🍀&nbsp🎓
+  description: A privacy-preserving outsourcing computing scheme based on secure trusted environment
+  link: https://ieeexplore.ieee.org/abstract/document/9866114
+  paper: (TCC 19) A Privacy-Preserving Outsourcing Computing Scheme based on Secure Trusted Environment
+  paperlink: https://ieeexplore.ieee.org/abstract/document/9866114
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: S-FaaS
+  year: 2019
+  type: 🍀&nbsp🎓
+  description: S-FaaS:&nbsp;trustworthy and accountable function-as-a-service using Intel SGX
+  link: https://dl.acm.org/doi/abs/10.1145/3338466.3358916
+  paper: (CCSW 19) S-FaaS:&nbsp;Trustworthy and Accountable Function-as-a-Service using Intel SGX
+  paperlink: https://dl.acm.org/doi/abs/10.1145/3338466.3358916
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: Yu's Work
+  year: 2022
+  type: 🍀&nbsp🎓
+  description: Towards a privacy-preserving smart contract-based data aggregation and quality-driven incentive mechanism for mobile crowdsensing
+  link: https://dl.acm.org/doi/abs/10.1145/3338466.3358916
+  paper: (Journal of Network and Computer Applications 19) Towards a privacy-preserving smart contract-based data aggregation and quality-driven incentive mechanism for mobile crowdsensing
+  paperlink: https://www.sciencedirect.com/science/article/abs/pii/S1084804522001291
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: Siris's Work
+  year: 2019
+  type: 🍀&nbsp🎓
+  description: IoT resource access utilizing blockchains and trusted execution environments
+  link: https://ieeexplore.ieee.org/abstract/document/8766403
+  paper: (GIoTS 19) IoT Resource Access utilizing Blockchains and Trusted Execution Environments
+  paperlink: https://ieeexplore.ieee.org/abstract/document/8766403
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: Prov-Trust
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: Towards a trustworthy SGX-based data provenance system
+  link: https://usir.salford.ac.uk/id/eprint/57147/
+  paper: (SECRYPT 20) Prov-Trust:Towards a Trustworthy SGX-based Data Provenance System
+  paperlink: https://usir.salford.ac.uk/id/eprint/57147/
+  news: ""
+  newslink: ""
+  tags: [SSS]
+
+- name: Mendes's work
+  year: 2023
+  type: 🏆&nbsp🎓
+  description: Smart-contract blockchain with secure hardware
+  link: https://run.unl.pt/bitstream/10362/116772/1/Mendes_2020.pdf
+  paper: Smart-contract Blockchain with Secure Hardware
+  paperlink: https://run.unl.pt/bitstream/10362/116772/1/Mendes_2020.pdf
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: Tran's Work
+  year: 2022
+  type: 🏆 &nbsp 🎓
+  description: Machine-as-a-service:&nbsp;blockchain-based management and maintenance of industrial appliances
+  link: https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.12567
+  paper: (EngRep 22) Machine-as-a-Service:&nbsp;Blockchain-based Management and Maintenance of Industrial Appliances
+  paperlink: https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.12567
+  news: ""
+  newslink: ""
+  tags: [SSS]
+
+- name: Han's Work
+  year: 2022
+  type: 🍀&nbsp🎓
+  description: A blockchain-Based and SGX-enabled access control framework for IoT
+  link: https://www.mdpi.com/2079-9292/11/17/2710
+  paper: (Electronics 22) A Blockchain-Based and SGX-Enabled Access Control Framework for IoT
+  paperlink: https://www.mdpi.com/2079-9292/11/17/2710
+  news: ""
+  newslink: ""
+  tags: [SSS]
+ 
+- name: Trustee
+  year: 2022
+  type: 🍀&nbsp🎓
+  description: Full privacy preserving vickrey auction on top of ethereum
+  link: https://link.springer.com/chapter/10.1007/978-3-030-43725-1_14
+  paper: (FC 19) Full Privacy Preserving Vickrey Auction on Top of Ethereum
+  paperlink: https://link.springer.com/chapter/10.1007/978-3-030-43725-1_14
+  news: ""
+  newslink: ""
+  tags: [SSS]
+
+- name: Liu's work
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: A privacy-preserving outsourcing computing scheme based on secure trusted environment
+  link: https://ieeexplore.ieee.org/abstract/document/9866114
+  paper: (IEEE Trans. on Cloud Comput. 22) A Privacy-Preserving Outsourcing Computing Scheme based on Secure Trusted Environment
+  paperlink: https://ieeexplore.ieee.org/abstract/document/9866114
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: SECAUCTEE
+  year: 2021
+  type: 🍀&nbsp🎓
+  description: Securing auction smart contracts using Trusted Execution Environments
+  link: https://ieeexplore.ieee.org/abstract/document/9680515
+  paper: (Blockchain 21) SECAUCTEE:&nbsp;Securing Auction Smart Contracts using Trusted Execution Environments
+  paperlink: https://ieeexplore.ieee.org/abstract/document/9680515
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: Bowman's work
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: Techniques for shared private data objects in a trusted execution environment
+  link: https://patents.google.com/patent/US10554634B2/en
+  paper: Techniques for shared private data objects in a trusted execution environment
+  paperlink: https://patents.google.com/patent/US10554634B2/en
+  news: ""
+  newslink: ""
+  tags: [SSS]
+
+- name: FairCs
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: Blockchain-based fair crowdsensing scheme using trusted execution environment
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7309114/
+  paper: (Sensors 20) Blockchain-Based Fair Crowdsensing Scheme using Trusted Execution Environment
+  paperlink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7309114/
+  news: ""
+  newslink: ""
+  tags: [SSS]
+
+- name: OAPSS
+  year: 2021
+  type: 🍀&nbsp🎓
+  description: A novel auction blockchain system with price recommendation and Trusted Execution Environment
+  link: https://www.mdpi.com/2227-7390/9/24/3214
+  paper: (Mathematics 21) A Novel Auction Blockchain System with Price Recommendation and Trusted Execution Environment
+  paperlink: https://www.mdpi.com/2227-7390/9/24/3214
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: Kwon's work
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: Executing computation-heavy smart contract outsourcing with SGX
+  link: https://koasas.kaist.ac.kr/handle/10203/267171
+  paper: Executing computation-heavy smart contract outsourcing with SGX
+  paperlink: https://koasas.kaist.ac.kr/handle/10203/267171
+  news: ""
+  newslink: ""
+  tags: [SSS]
+
+- name: Ayoade's work
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: Decentralized IoT data management using blockChain and trusted execution environment
+  link: https://ieeexplore.ieee.org/abstract/document/8424682
+  paper: (IRI 18) Decentralized IoT Data Management Using BlockChain and Trusted Execution Environment
+  paperlink: https://ieeexplore.ieee.org/abstract/document/8424682
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: SECAUCTEE
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: SECAUCTEE:&nbsp;Securing auction smart contracts using trusted execution environments
+  link: https://ieeexplore.ieee.org/abstract/document/8424682
+  paper: (Blockchain 21) SECAUCTEE:&nbsp;Securing Auction Smart Contracts using Trusted Execution Environments
+  paperlink: https://ieeexplore.ieee.org/abstract/document/8424682
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: PrivacyGuard
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: PrivacyGuard:&nbsp;enforcing private data usage with blockchain and attested execution
+  link: https://link.springer.com/chapter/10.1007/978-3-030-00305-0_24
+  paper: (ESORICS 18) PrivacyGuard:&nbsp;enforcing Private Data Usage with Blockchain and Attested Execution
+  paperlink: https://link.springer.com/chapter/10.1007/978-3-030-00305-0_24
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: TEBDS
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: A trusted execution environment-and-blockchain-supported IoT data sharing system
+  link: https://www.sciencedirect.com/science/article/abs/pii/S0167739X22003326
+  paper: (FGCS 22) TEBDS:&nbsp;A Trusted Execution Environment-and-Blockchain-supported IoT data sharing system
+  paperlink: https://www.sciencedirect.com/science/article/abs/pii/S0167739X22003326
+  news: ""
+  newslink: ""
+  tags: [SSS]
+
+- name: SecBCS
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: A trusted execution environment-and-blockchain-supported IoT data sharing system
+  link: http://scis.scichina.com/en/2020/130102.pdf
+  paper: (Science China 20) SecBCS:&nbsp;A Secure and Privacy-preserving Blockchain-based Crowdsourcing System
+  paperlink: http://scis.scichina.com/en/2020/130102.pdf
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: TeeSwap
+  year: 2021
+  type: 🍀&nbsp🎓
+  description: TeeSwap:&nbsp;private data exchange using smart contract and Trusted Execution Environment
+  link: https://ieeexplore.ieee.org/abstract/document/9781243
+  paper: (HPCC 21) TeeSwap:&nbsp;Private Data Exchange using Smart Contract and Trusted Execution Environment
+  paperlink: https://ieeexplore.ieee.org/abstract/document/9781243
+  news: ""
+  newslink: ""
+  tags: [SSS]
+
+- name: Li's work
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: An accountable decryption system based on privacy-preserving smart contracts
+  link: https://link.springer.com/chapter/10.1007/978-3-030-62974-8_21
+  paper: (ISC 20) An Accountable Decryption System Based on Privacy-Preserving Smart Contracts
+  paperlink: https://link.springer.com/chapter/10.1007/978-3-030-62974-8_21
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: Senopra
+  year: 2018
+  type: 🍀&nbsp🎓
+  description: Senopra:&nbsp;Reconciling data privacy and utility via attested smart contract execution
+  link: https://eprint.iacr.org/2018/1246
+  paper: (Eprint 18) Senopra:&nbsp;Reconciling Data Privacy and Utility via Attested Smart Contract Execution
+  paperlink: https://eprint.iacr.org/2018/1246
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: Alansari's work
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: A blockchain-based approach for secure, transparent and accountable personal data sharing
+  link: https://eprints.soton.ac.uk/447633/
+  paper: A Blockchain-based Approach for Secure, Transparent and Accountable Personal Data Sharing
+  paperlink: https://eprints.soton.ac.uk/447633/
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: Liu's Work
+  year: 2021
+  type: 🍀&nbsp🎓
+  description: Privacy preserving divisible double auction with a hybridized TEE-blockchain system
+  link: https://cybersecurity.springeropen.com/articles/10.1186/s42400-021-00100-x
+  paper: (Cybersecurity 21) Privacy Preserving Divisible Double Auction with a Hybridized TEE-blockchain System
+  paperlink: https://cybersecurity.springeropen.com/articles/10.1186/s42400-021-00100-x
+  news: ""
+  newslink: ""
+  tags: [SSS]
+ 
+- name: SDTE
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: A secure blockchain-based data trading ecosystem
+  link: https://ieeexplore.ieee.org/abstract/document/8759960
+  paper: (IEEE Trans. Inf. Forensics Secur. 19) SDTE:A Secure Blockchain-Based Data Trading Ecosystem
+  paperlink: https://ieeexplore.ieee.org/abstract/document/8759960
+  news: ""
+  newslink: ""
+  tags: [SSS]
+
+- name: Isaac's Work
+  year: 2017
+  type: 🍀&nbsp🎓
+  description: Confidentiality in a consortium blockchain network
+  link: https://patents.google.com/patent/US10742393B2/en
+  paper: (US Patent 17) Confidentiality in a Consortium Blockchain Network
+  paperlink: https://patents.google.com/patent/US10742393B2/en
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: Rohan's Work
+  year: 2017
+  type: 🍀&nbsp🎓
+  description: Increasing security of an e-auction smart contracts with Intel SGX trusted hardware
+  link: https://repository.tudelft.nl/islandora/object/uuid:6b5ff97f-ebfb-49ad-9f37-4ff4c3a6ad22
+  paper: (Thesis 22) Increasing security of an e-auction smart contracts with Intel SGX trusted hardware
+  paperlink: https://repository.tudelft.nl/islandora/object/uuid:6b5ff97f-ebfb-49ad-9f37-4ff4c3a6ad22
+  news: ""
+  newslink: ""
+  tags: [SSS]
+  
+- name: Agrawal's work
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: Enabling verifiable execution of distributed secure
+  link: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-153.pdf
+  paper: Enabling Verifiable Execution of Distributed Secure
+  paperlink: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-153.pdf
+  news: ""
+  newslink: ""
+  tags: [SSS]
+
+- name: Kotz's work
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: Information Provenance for Mobile Health Data
+  link: https://digitalcommons.dartmouth.edu/dissertations/79/
+  paper: Information Provenance for Mobile Health Data
+  paperlink: https://digitalcommons.dartmouth.edu/dissertations/79/
+  news: ""
+  newslink: ""
+  tags: [SSS]
+
+# Analysis Paper
+
+- name: Brandenburger and Cachin's Work
+  year: 2022
+  type: 🏆&nbsp🎓
+  description: Challenges for combining smart contracts with trusted computing
+  link: https://dl.acm.org/doi/abs/10.1145/3268935.3268944
+  paper: (SysTEX 18) Challenges for combining smart contracts with trusted computing
+  paperlink: https://dl.acm.org/doi/abs/10.1145/3268935.3268944
+  news: ""
+  newslink: ""
+  tags: [APP]
+
+- name: Brandenburger, Cachin, Kapitza and Sorniotti's Work
+  year: 2022
+  type: 🏆&nbsp🎓
+  description: Blockchain and trusted computing:&nbsp;problems, pitfalls, and a solution for Hyperledger fabric
+  link: https://ale.sopit.net/pdf/FabricSGX.pdf
+  paper: (Eprint 18) Blockchain and Trusted Computing:&nbsp;Problems, Pitfalls, and a Solution for Hyperledger Fabric
+  paperlink: https://ale.sopit.net/pdf/FabricSGX.pdf
+  news: ""
+  newslink: ""
+  tags: [APP]
+  
+- name: Brandenburger's Work
+  year: 2022
+  type: 🏆&nbsp🎓
+  description: Trusted computing meets Blockchain:&nbsp;rollback attacks and a solution for Hyperledger fabric
+  link: https://ieeexplore.ieee.org/document/9049585
+  paper: (SRDS 18) Trusted Computing Meets Blockchain:&nbsp;Rollback Attacks and a Solution for Hyperledger Fabric
+  paperlink: https://ieeexplore.ieee.org/document/9049585
+  news: ""
+  newslink: ""
+  tags: [APP]
+  
+- name: Rabimba's Work
+  year: 2022
+  type: 🏆&nbsp🎓
+  description: Lessons Learned from Blockchain Applications of Trusted Execution Environments and Implications for Future Research
+  link: https://dl.acm.org/doi/abs/10.1145/3505253.3505259
+  paper: (HASP 21) Lessons Learned from Blockchain Applications of Trusted Execution Environments and Implications for Future Research
+  paperlink: https://dl.acm.org/doi/abs/10.1145/3505253.3505259
+  news: ""
+  newslink: ""
+  tags: [APP]
+  
+- name: Li's Work
+  year: 2022
+  type: 🏆&nbsp🎓
+  description: SoK:&nbsp;TEE-assisted confidential smart contract
+  link: https://petsymposium.org/popets/2022/popets-2022-0093.pdf
+  paper: (PETS 22) SoK:&nbsp;TEE-assisted Confidential Smart Contract
+  paperlink: https://petsymposium.org/popets/2022/popets-2022-0093.pdf
+  news: ""
+  newslink: ""
+  tags: [APP]
+  
+- name: Bao's Work
+  year: 2020
+  type: 🏆&nbsp🎓
+  description: When blockchain meets SGX:&nbsp;an overview, challenges, and open issues
+  link: https://ieeexplore.ieee.org/document/9197584
+  paper: (IEEE Access 20) When Blockchain Meets SGX:An Overview, Challenges, and Open Issues
+  paperlink: https://ieeexplore.ieee.org/document/9197584
+  news: ""
+  newslink: ""
+  tags: [APP]
+  
+# Related Reports
+
+
+- name: Hashkey Group's Report
+  year: 2022
+  type: 🏆&nbsp🎓
+  description: Privacy networks:&nbsp;the future of smart contract platforms
+  link: https://www.hashkey.com/en/insights/privacy-networks-the-future-of-smart-contract-platforms-2.html
+  paper: (Report 22) Privacy networks:&nbsp;the future of smart contract platforms
+  paperlink: https://www.hashkey.com/en/insights/privacy-networks-the-future-of-smart-contract-platforms-2.html
+  news: ""
+  newslink: ""
+  tags: [RRPTs]
+
+- name: Tencent's Report
+  year: 2020
+  type: 🍀&nbsp🎓
+  description: Privacy-Preserving Data Sharing on Blockchain via TEE
+  link: https://www.itu.int/en/ITU-T/webinars/20210512/Documents/Tao%20ZHANG_Presentation.pdf?csf=1&e=FFNOTy
+  paper: (Report 20) Secure Computations in Decentralized Environments
+  paperlink: https://www.itu.int/en/ITU-T/webinars/20210512/Documents/Tao%20ZHANG_Presentation.pdf?csf=1&e=FFNOTy
+  news: ""
+  newslink: ""
+  tags: [RRPTs]
+
+- name: Song's Report in Research Faculty Summit 2018
+  year: 2020
+  type: 🍀&nbsp🎓
+  description: Towards secure, practical confidential computing with open source secure enclave
+  link: https://www.microsoft.com/en-us/research/uploads/prod/2018/08/Confiedential_Computing_Dawn_Song_Manuel_Costa.pdf
+  paper: (Report 18) Towards secure, practical confidential computing with open source secure enclave
+  paperlink: https://www.microsoft.com/en-us/research/uploads/prod/2018/08/Confiedential_Computing_Dawn_Song_Manuel_Costa.pdf
+  news: ""
+  newslink: ""
+  tags: [RRPTs]
+  
+- name: He's Report
+  year: 2020
+  type: 🍀&nbsp🎓
+  description: SGX and cryptocurrencies
+  link: https://www.initc3.org/files/retreat/sgx_contracts.pdf
+  paper: (Report 18) SGX and cryptocurrencies
+  paperlink: https://www.initc3.org/files/retreat/sgx_contracts.pdf
+  news: ""
+  newslink: ""
+  tags: [RRPTs]
+  tags: [RRPTs]
+  
+- name: Lekssays's Report
+  year: 2020
+  type: 🏆&nbsp🎓
+  description: Confidentiality-preserving smart contracts
+  link: https://rais-itn.eu/storage/app/media/activities/online%20seminars/Confidentiality-preserving%20Smart%20Contracts/Confidentiality-preserving%20Smart%20Contracts.pdf
+  paper: (Report 21) Confidentiality-preserving Smart Contracts
+  paperlink: https://rais-itn.eu/storage/app/media/activities/online%20seminars/Confidentiality-preserving%20Smart%20Contracts/Confidentiality-preserving%20Smart%20Contracts.pdf
+  news: ""
+  newslink: ""
+  tags: [RRPTs]
+  
+- name: Dawn Song's Report
+  year: 2018
+  type: 🏆&nbsp🎓
+  description: Towards privacy-preserving smart Contracts at scale
+  link: https://www.cybersecuritycloudexpo.com/northamerica/wp-content/uploads/2018/12/1450-Dawn-Song-Berkeley-EMERGING-V1.pdf
+  paper: (Report 21) Towards Privacy-preserving Smart Contracts at Scale
+  paperlink: https://www.cybersecuritycloudexpo.com/northamerica/wp-content/uploads/2018/12/1450-Dawn-Song-Berkeley-EMERGING-V1.pdf
+  news: ""
+  newslink: ""
+  tags: [RRPTs]
+  
+- name: Kumaresan's Report
+  year: 2018
+  type: 🏆&nbsp🎓
+  description: Privacy-preserving smart contracts
+  link: https://www.microsoft.com/en-us/research/video/privacy-preserving-smart-contracts/
+  paper: (Report 16) Privacy-Preserving Smart Contracts
+  paperlink: https://www.microsoft.com/en-us/research/video/privacy-preserving-smart-contracts/
+  news: ""
+  newslink: ""
+  tags: [RRPTs]
+    
+- name: Li's Report
+  year: 2018
+  type: 🏆&nbsp🎓
+  description: Confidential smart contract introduction
+  link: https://www.youtube.com/watch?v=rkAatxBRauI
+  paper: (Report 22) Confidential smart contract introduction
+  paperlink: https://www.youtube.com/watch?v=rkAatxBRauI
+  news: ""
+  newslink: ""
+  tags: [RRPTs]
+  

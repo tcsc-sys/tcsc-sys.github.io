@@ -1,0 +1,9 @@
+---
+- name: Universal Platform
+  tag: SEC
+- name: Specific Solution
+  tag: SSS
+- name: Analysis Paper
+  tag: APP
+- name: Related Reports 
+  tag: RRPTs
