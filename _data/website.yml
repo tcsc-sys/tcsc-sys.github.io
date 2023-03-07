@@ -688,6 +688,17 @@
 
 # Analysis Paper
 
+- name: SGX.Fail
+  year: 2022
+  type: 🏆&nbsp🎓
+  description: To explore the effectiveness of SGX's update mechanisms to prevent attacks on real-world deployments
+  link: https://sgx.fail/
+  paper: 'SoK: SGX.Fail: How Stuff Gets eXposed'
+  paperlink: https://sgx.fail/files/sgx.fail.pdf
+  news: ""
+  newslink: ""
+  tags: [ APP ]
+
 - name: Brandenburger and Cachin's Work
   year: 2022
   type: 🏆&nbsp🎓
