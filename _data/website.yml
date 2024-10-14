@@ -1,6 +1,104 @@
 ---
  # Security and Privacy
- 
+- name: Hela
+  year: 2024
+  type: 🍀&nbsp🌉
+  description: HeLa is a modular Layer-1 solution designed by renowned engineers and scientists in collaboration with
+  link: https://helalabs.com/
+  paper: (Tech Documentation) Hela Whitepaper
+  paperlink: https://helalabs.com/hela-whitepaper.pdf
+  news: The Role of Trusted Execution Environment in HeLa Chain
+  newslink: https://helalabs.com/blog/the-role-of-trusted-execution-environment-in-hela-chain/
+  tags: [SEC]
+
+- name: Fhenix
+  year: 2024
+  type: 🍀&nbsp🌉
+  description: Onchain confidentiality powered by the first FHE L2 Rollup
+  link: https://www.fhenix.io/
+  paper: (Tech Report) FHE-Rollups:&nbsp;Scaling Confidential Smart Contracts on Ethereum and Beyond
+  paperlink: https://www.fhenix.io/wp-content/uploads/2024/04/FHE_Rollups_Paper_Final-20241404.pdf
+  news: ""
+  newslink: ""
+  tags: [SEC]
+
+- name: TSC-VEE
+  year: 2024
+  type: 🍀&nbsp🎓
+  description: A TrustZone-Based Smart Contract Virtual Execution Environment
+  link: https://ieeexplore.ieee.org/abstract/document/10094016
+  paper: (TPDS 24) TSC-VEE:&nbsp;A TrustZone-Based Smart Contract Virtual Execution Environment
+  paperlink: https://ieeexplore.ieee.org/abstract/document/10094016
+  news: ""
+  newslink: ""
+  tags: [SEC]
+
+- name: MECAT
+  year: 2024
+  type: 🏆&nbsp🎓
+  description: Memory-Safe Smart Contracts in ARM TrustZone
+  link: https://ieeexplore.ieee.org/abstract/document/10496091
+  paper: (IEEE Access 24) MECAT:&nbsp;Memory-Safe Smart Contracts in ARM TrustZone
+  paperlink: https://ieeexplore.ieee.org/abstract/document/10496091
+  news: ""
+  newslink: ""
+  tags: [SEC]
+
+- name: Lu's work
+  year: 2024
+  type: 🍀&nbsp🎓
+  description: Trusted Execution Environment With Rollback Protection for Smart Contract-Based IoT Data Trading
+  link: https://ieeexplore.ieee.org/abstract/document/10584087
+  paper: (IOT 24) Trusted Execution Environment With Rollback Protection for Smart Contract-Based IoT Data Trading
+  paperlink: https://ieeexplore.ieee.org/abstract/document/10584087
+  news: ""
+  newslink: ""
+  tags: [SEC]
+
+- name: ParaEthereum
+  year: 2024
+  type: 🍀&nbsp🎓
+  description: Private and Parallel Smart Contracts with Trusted Hardware
+  link: https://ieeexplore.ieee.org/abstract/document/10268608
+  paper: (ICC 24) ParaEthereum:&nbsp;Private and Parallel Smart Contracts with Trusted Hardware
+  paperlink: https://ieeexplore.ieee.org/abstract/document/10268608
+  news: ""
+  newslink: ""
+  tags: [SEC]
+
+- name: Wang's work
+  year: 2024
+  type: 🏆&nbsp🎓
+  description: A Blockchain-Based Privacy-Preserving Healthcare Data Sharing Scheme for Incremental Updates
+  link: https://www.mdpi.com/2073-8994/16/1/89
+  paper: (Symmetry 24) A Blockchain-Based Privacy-Preserving Healthcare Data Sharing Scheme for Incremental Updates
+  paperlink: https://www.mdpi.com/2073-8994/16/1/89
+  news: ""
+  newslink: ""
+  tags: [SEC]
+
+- name: TrustHealth
+  year: 2024
+  type: 🏆&nbsp🎓
+  description: Enhancing eHealth Security with Blockchain and Trusted Execution Environments
+  link: https://www.mdpi.com/2079-9292/13/12/2425
+  paper: (Electronics 24) TrustHealth:&nbsp;Enhancing eHealth Security with Blockchain and Trusted Execution Environments
+  paperlink: https://www.mdpi.com/2079-9292/13/12/2425
+  news: ""
+  newslink: ""
+  tags: [SEC]
+
+- name: Antonio's work
+  year: 2024
+  type: 🍀&nbsp🎓
+  description: Enhancing Healthcare Data Confidentiality through Decentralized TEE Attestation
+  link: https://ieeexplore.ieee.org/abstract/document/10679402
+  paper: (CSR 24) Enhancing Healthcare Data Confidentiality through Decentralized TEE Attestation
+  paperlink: https://ieeexplore.ieee.org/abstract/document/10679402
+  news: ""
+  newslink: ""
+  tags: [SEC]
+
 - name: Microsoft Aura Confidential Ledger
   year: 2023
   type: 🍀&nbsp🌉
@@ -243,6 +341,39 @@
   news: Confidential Computing for Everyone:&nbsp;Getting Started with Occlum and Its Related Technologies
   newslink: https://www.alibabacloud.com/blog/confidential-computing-for-everyone-getting-started-with-occlum-and-its-related-technologies_598671?utm_content=m_1000334423
   tags: [SEC]
+
+- name: EPT
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: Enhancing User Transparency for Confidential Smart Contract
+  link: https://dl.acm.org/doi/abs/10.1145/3589334.3645319
+  paper: (EPT 23) EPT:&nbsp;Enhancing User Transparency for Confidential Smart Contract
+  paperlink: https://dl.acm.org/doi/abs/10.1145/3589334.3645319
+  news: ""
+  newslink: ""
+  tags: [SEC]
+
+- name: BTAA
+  year: 2023
+  type: 🏆&nbsp🎓
+  description: Blockchain and TEE-Assisted Authentication for IoT Systems
+  link: https://ieeexplore.ieee.org/abstract/document/10268608
+  paper: (IOT 23) BTAA:&nbsp;Blockchain and TEE-Assisted Authentication for IoT Systems
+  paperlink: https://ieeexplore.ieee.org/abstract/document/10268608
+  news: ""
+  newslink: ""
+  tags: [SEC]
+
+- name: Huang's work
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: Making Smart Contracts Smarter on Blockchain
+  link: https://dl.acm.org/doi/abs/10.1145/3589334.3645319
+  paper: (WWW 24) Advancing Web 3.0:&nbsp;Making Smart Contracts Smarter on Blockchain
+  paperlink: https://dl.acm.org/doi/abs/10.1145/3589334.3645319
+  news: ""
+  newslink: ""
+  tags: [SEC]
   
 - name: CLOAK
   year: 2023
@@ -344,6 +475,50 @@
   tags: [SEC]
 
 # Specific Solution
+
+- name: SGXonerate
+  year: 2024
+  type: 🍀&nbsp🎓
+  description: Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE
+  link: https://petsymposium.org/popets/2024/popets-2024-0035.php
+  paper: (PETs 24) SGXonerate:&nbsp;Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE
+  paperlink: https://petsymposium.org/popets/2024/popets-2024-0035.php
+  news: ""
+  newslink: ""
+  tags: [SSS]
+
+- name: Hou's work
+  year: 2024
+  type: 🍀&nbsp🎓
+  description: Peer-to-Peer Energy Trading with Privacy and Fair Exchange
+  link: https://ieeexplore.ieee.org/abstract/document/10268608
+  paper: (Blockchain 24) Peer-to-Peer Energy Trading with Privacy and Fair Exchange
+  paperlink: https://ieeexplore.ieee.org/abstract/document/10268608
+  news: ""
+  newslink: ""
+  tags: [SSS]
+
+- name: DeCloak
+  year: 2024
+  type: 🍀&nbsp🎓
+  description: Enable Secure and Cheap Multi-Party Transactions on Legacy Blockchains by a Minimally Trusted TEE Network
+  link: https://ieeexplore.ieee.org/abstract/document/10262093
+  paper: (TIFS 24) DeCloak:&nbsp;Enable Secure and Cheap Multi-Party Transactions on Legacy Blockchains by a Minimally Trusted TEE Network
+  paperlink: https://ieeexplore.ieee.org/abstract/document/10262093
+  news: ""
+  newslink: ""
+  tags: [SSS]
+
+- name: PACTA
+  year: 2023
+  type: 🍀&nbsp🎓
+  description: An IoT Data Privacy Regulation Compliance Scheme Using TEE and Blockchain
+  link: https://ieeexplore.ieee.org/abstract/document/10268608
+  paper: (IOT 23) PACTA:&nbsp;An IoT Data Privacy Regulation Compliance Scheme Using TEE and Blockchain
+  paperlink: https://ieeexplore.ieee.org/abstract/document/10268608
+  news: ""
+  newslink: ""
+  tags: [SSS]
 
 - name: Li's Work
   year: 2023
@@ -688,6 +863,105 @@
 
 # Analysis Paper
 
+- name: Qi's Work
+  year: 2024
+  type: 🏆&nbsp🎓
+  description: SoK:&nbsp;Privacy-preserving smart contract
+  link: https://www.sciencedirect.com/science/article/pii/S2667295223000818
+  paper: (HCC 24) SoK:&nbsp;TEE-assisted Confidential Smart Contract
+  paperlink: https://www.sciencedirect.com/science/article/pii/S2667295223000818
+  news: ""
+  newslink: ""
+  tags: [APP]
+
+- name: Musale's Work
+  year: 2024
+  type: 🏆&nbsp🎓
+  description: Exploring the Impact of Trusted Execution Environments on Smart Home Privacy Norms
+  link: https://petsymposium.org/popets/2023/popets-2023-0067.php
+  paper: (PETs 24) Trust TEE?:&nbsp;Exploring the Impact of Trusted Execution Environments on Smart Home Privacy Norms
+  paperlink: https://petsymposium.org/popets/2023/popets-2023-0067.php
+  news: ""
+  newslink: ""
+  tags: [APP]
+
+- name: Trustless Execution Environments
+  year: 2024
+  type: 🏆&nbsp🎓
+  description: why TEEs are optimal networking infrastructure for Web3 and DeAI
+  link: https://omnida.substack.com/p/trustless-execution-environments
+  paper: Trustless Execution Environments
+  paperlink: https://omnida.substack.com/p/trustless-execution-environments
+  news: ""
+  newslink: ""
+  tags: [APP]
+
+- name: Valadares's work
+  year: 2024
+  type: 🏆&nbsp🎓
+  description: Privacy-Preserving Blockchain Technologies
+  link: https://www.mdpi.com/1424-8220/23/16/7172
+  paper: (Sensors 23) Privacy-Preserving Blockchain Technologies
+  paperlink: https://www.mdpi.com/1424-8220/23/16/7172
+  news: ""
+  newslink: ""
+  tags: [APP]
+
+- name: Confidential Compute
+  year: 2024
+  type: 🏆&nbsp🎓
+  description: TEE coprocessors or "Confidential Compute"
+  link: https://mirror.xyz/tumilet.eth/309o294dI38nETEUhF6Yjk8zH6smoa1rqaqv5jFbCjg
+  paper: TEE coprocessors or "Confidential Compute"
+  paperlink: https://mirror.xyz/tumilet.eth/309o294dI38nETEUhF6Yjk8zH6smoa1rqaqv5jFbCjg
+  news: ""
+  newslink: ""
+  tags: [APP]
+
+- name: Logeswaran's work
+  year: 2024
+  type: 🏆&nbsp🎓
+  description: Trusted Executed Environment(TEE) - Why it is so important?
+  link: https://blockchaindreamlab.com/trusted-executed-environmenttee-why-it-is-so-important
+  paper: Trusted Executed Environment(TEE) - Why it is so important?
+  paperlink: https://blockchaindreamlab.com/trusted-executed-environmenttee-why-it-is-so-important
+  news: ""
+  newslink: ""
+  tags: [APP]
+
+- name: ZKON
+  year: 2024
+  type: 🏆&nbsp🎓
+  description: Blockchain Privacy and Security in Data Computation
+  link: https://blockchaindreamlab.com/trusted-executed-environmenttee-why-it-is-so-important
+  paper: Blockchain Privacy and Security in Data Computation:&nbsp;Exploring MPC, TEE & ZK.
+  paperlink: https://blockchaindreamlab.com/trusted-executed-environmenttee-why-it-is-so-important
+  news: ""
+  newslink: ""
+  tags: [APP]
+
+- name: Yin's work
+  year: 2023
+  type: 🏆&nbsp🎓
+  description: A survey on privacy preservation techniques for blockchain interoperability
+  link: https://www.sciencedirect.com/science/article/abs/pii/S1383762123000711
+  paper: (JSA 23) A survey on privacy preservation techniques for blockchain interoperability
+  paperlink: https://www.sciencedirect.com/science/article/abs/pii/S1383762123000711
+  news: ""
+  newslink: ""
+  tags: [APP]
+
+- name: Cnudde's work
+  year: 2023
+  type: 🏆&nbsp🎓
+  description: Analyzing Privacy-Preserving Smart Contracts
+  link: https://www.esat.kuleuven.be/cosic/publications/thesis-478.pdf
+  paper: Analyzing Privacy-Preserving Smart Contracts
+  paperlink: https://www.esat.kuleuven.be/cosic/publications/thesis-478.pdf
+  news: ""
+  newslink: ""
+  tags: [APP]
+
 - name: SGX.Fail
   year: 2022
   type: 🏆&nbsp🎓
@@ -697,7 +971,7 @@
   paperlink: https://sgx.fail/files/sgx.fail.pdf
   news: ""
   newslink: ""
-  tags: [ APP ]
+  tags: [APP]
 
 - name: Brandenburger and Cachin's Work
   year: 2022
@@ -810,7 +1084,6 @@
   paperlink: https://www.initc3.org/files/retreat/sgx_contracts.pdf
   news: ""
   newslink: ""
-  tags: [RRPTs]
   tags: [RRPTs]
   
 - name: Lekssays's Report
